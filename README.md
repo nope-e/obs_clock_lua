@@ -5,7 +5,7 @@
 ## 兼容性提示
 本分支适用于 OBS 33.0.1+
 
-对于OBS版本<=32.2.2 请使用 [兼容性分支](/tree/compact/obs32-or-less)
+对于OBS版本<=32.2.2 请使用 [兼容性分支](tree/compact/obs32-or-less)
 
 ## 功能特性
 
