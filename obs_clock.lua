@@ -27,7 +27,7 @@ function image_source_load(image, file)
 	obs.gs_image_file_ex_free(image);
 	obs.obs_leave_graphics();
 
-	obs.gs_image_file_ex_init(image, file);
+	obs.gs_image_file_ex_init(image, file, 0);
 
 	obs.obs_enter_graphics();
 	obs.gs_image_file_ex_init_texture(image);
